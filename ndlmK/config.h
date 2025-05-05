@@ -27,8 +27,7 @@
 #define MOUSEKEY_WHEEL_TIME_TO_MAX 1
 
 #define CAPS_LOCK_STATUS
-#define HOLD_ON_OTHER_KEY_PRESS
-#define SERIAL_NUMBER "ndlmK/MaJ0gX"
+#define SERIAL_NUMBER "ndlmK/QzX0QW"
 #define LAYER_STATE_8BIT
 #define COMBO_COUNT 4
 
