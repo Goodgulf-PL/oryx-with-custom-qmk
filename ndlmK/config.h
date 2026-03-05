@@ -1,5 +1,8 @@
 #define FLOW_TAP_TERM 100
 #define CHORDAL_HOLD
+#undef TAPPING_TERM
+#define TAPPING_TERM 175
+
 #define PERMISSIVE_HOLD
 
 #undef RGB_MATRIX_TIMEOUT
@@ -25,7 +28,7 @@
 #define MOUSEKEY_WHEEL_TIME_TO_MAX 1
 
 #define CAPS_LOCK_STATUS
-#define SERIAL_NUMBER "ndlmK/9DB7lO"
+#define SERIAL_NUMBER "ndlmK/Eea7Rn"
 #define LAYER_STATE_8BIT
 #define COMBO_COUNT 4
 
